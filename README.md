@@ -4,16 +4,16 @@ A reusable React components library including custom **Buttons**, **Cards**, and
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ⚛️ Built with React and Vite
-- 📦 Easy to import and use components
-- 🎨 Simple styling with CSS
-- 📁 Modular file structure
+ Built with React and Vite
+ Easy to import and use components
+ Simple styling with CSS
+ Modular file structure
 
 ---
 
-## 📂 Components Included
+## Components Included
 
 | Component | Description |
 |-----------|-------------|
@@ -23,7 +23,7 @@ A reusable React components library including custom **Buttons**, **Cards**, and
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Clone the repository and install dependencies:
 
